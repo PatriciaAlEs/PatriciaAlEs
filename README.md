@@ -16,7 +16,7 @@ _Actualmente at [Searching work 🔎]_
 ```javascript
 const patriciaAlvarez = {
   pronouns: "she" | "her",
-  description: "Full Stack Developer en proceso de aprendizaje continuo, buscando proyectos donde aplicar mis conocimientos.",
+  description: "Full Stack Developer en proceso de aprendizaje, buscando proyectos donde aplicar mis conocimientos.",
   skills: {
     languages: ["JavaScript", "Python", "HTML5", "CSS3"],
     tools: ["React", "Node.js", "Git", "Docker", "SQLAlchemy", "APIs REST"],
