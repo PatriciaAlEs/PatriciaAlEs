@@ -22,7 +22,7 @@ const patriciaAlvarez = {
     tools: ["React", "Node.js", "Git", "Docker", "SQLAlchemy", "APIs REST"],
     softSkills: ["Liderazgo", "Resolución de problemas", "Adaptabilidad", "Planificación efectiva"]
   },
-  currentProject: "Mejorando mis habilidades con React y TypeScript.",
+  currentProject: "Mejorando mis habilidades con React y Phyton.",
   interests: ["Literatura", "Comunidades de desarrollo", "Retos de programación (#100DaysOfCode)"]
 };
 
