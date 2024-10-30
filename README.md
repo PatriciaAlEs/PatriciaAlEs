@@ -23,7 +23,7 @@ const patriciaAlvarez = {
     softSkills: ["Liderazgo", "Resolución de problemas", "Adaptabilidad", "Planificación efectiva"]
   },
   currentProject: "Mejorando mis habilidades con React y Phyton.",
-  interests: ["Literatura", "Comunidades de desarrollo", "Retos de programación (#100DaysOfCode)"]
+  interests: ["Literatura", "Comunidades de desarrollo", "Cursos de programación"]
 };
 
 ```
