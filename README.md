@@ -27,7 +27,7 @@ const patriciaAlvarez = {
 };
 
 ```
-He llegado a esta galaxia para quedarme:
+He llegado a la galaxia de los programadores para quedarme:
 patriciaalvarezestevez@gmail.com
 
 <div align="center">
