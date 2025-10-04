@@ -1,6 +1,9 @@
 # 👩‍💻 Hello World, I'm Patricia!  
 <img src="https://github.com/user-attachments/assets/51b7e06f-3455-48fa-a003-dbafd438c6c7" width="50px" height="50px" alt="cat-gif" />
 
+
+
+
 **Full Stack Developer | Teaching Assistant at 4Geeks Academy | Open to Work**  
 
 [![LinkedIn Profile](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/patricia-alvarez-1052bb332/)  
@@ -60,12 +63,27 @@ These repositories are designed to help students **understand concepts with fres
 
 ---
 
+
+## 📊 GitHub Stats
+
+| ![Patricia's GitHub stats](https://github-readme-stats.vercel.app/api?username=PatriciaAlEs&show_icons=true&theme=radical) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PatriciaAlEs&layout=compact&theme=radical&hide=html,css) |
+|---|---|
+ 
+
 ## 🌟 Fun Facts
 - ✨ Amante de la **literatura fantástica** y las comunidades tech.  
 - 🐱 Tengo varios gatos que son mis mejores compañeros de programación.  
 - 📖 Primera lectura en inglés: *Legends & Lattes*.  
 
 ---
+
+## 📈 Contribution Graph
+[![Patricia's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PatriciaAlEs&theme=radical)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+![Snake animation](https://github.com/PatriciaAlEs/PatriciaAlEs/blob/output/github-contribution-grid-snake.svg)
+
+## ✨ Dev Quote
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Programming%20is%20thinking%2C%20not%20typing.&author=Rich%20Hickey)
 
 <div align="center">
   <img src="https://i.pinimg.com/originals/c2/30/90/c23090d860acc7356365087158309050.gif" alt="animated gif"  width="100%">
