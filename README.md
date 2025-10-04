@@ -46,13 +46,28 @@ I’m passionate about **continuous learning**, **hands-on coding**, and helping
 
 ---
 
+## 👩‍🏫 Mentorship & Practice Repositories
+As a **Teaching Assistant at 4Geeks Academy**, I’ve developed several specific repositories for mentoring sessions.  
+They include alternative examples and extra exercises related to the bootcamp curriculum, such as:  
+
+- 🧙‍♂️ Magic Card Form – practicing React states and controlled inputs.  
+- 🛒 Shopping List – working with `useState` and `useEffect`.  
+- 🪄 Fetching Wizards – consuming an API with `fetch`, `async/await`, POST & DELETE methods.  
+
+These repositories are designed to help students **understand concepts with fresh examples** and improve their problem-solving skills.  
+
+---
+
 ## 📂 Featured Projects
+
+- 💼 [**Portfolio (Work in Progress)**](https://github.com/PatriciaAlEs/mi-nuevo-portfolio)  
+  _Personal portfolio built with React + Flask backend, showcasing my projects and experience._ 
 
 - 🌱 [**Habit Tracker**](https://github.com/PatriciaAlEs/habit-tracker)  
   _React app to track daily habits (React + LocalStorage)._  
 
-- 📚 [**Star Wars API**](https://github.com/PatriciaAlEs/starwars-api)  
-  _REST API built with Flask + SQLAlchemy + PostgreSQL._  
+- 📖 [**Hooboo**](https://github.com/PatriciaAlEs/hooboo)  
+  _Full stack project to manage books, authors and reading lists (React + Flask + SQLAlchemy)._
 
 - 🛍️ [**Entusiasmao**](https://github.com/PatriciaAlEs/entusiasmao)  
   _E-commerce website with WordPress + WooCommerce._  
