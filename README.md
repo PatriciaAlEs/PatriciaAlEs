@@ -80,7 +80,6 @@ These repositories are designed to help students **understand concepts with fres
 ## 📈 Contribution Graph
 [![Patricia's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PatriciaAlEs&theme=radical)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-![Snake animation](https://github.com/PatriciaAlEs/PatriciaAlEs/blob/output/snake.svg)
 
 ## ✨ Dev Quote
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Programming%20is%20thinking%2C%20not%20typing.&author=Rich%20Hickey)
