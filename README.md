@@ -36,9 +36,12 @@ Tech stack: React · Vite · Flask · SQLAlchemy · PostgreSQL · JWT
 Description: Personal portfolio showcasing my projects, experience and background as a Full Stack Developer.
 Includes bilingual content (ES/EN), authentication, protected sections and responsive design.
 <h3>🌐 Portfolio (Live)</h3>
-<a href="https://portfoliopatriciaales202603.onrender.com/">
-  <img src="./assets/Home%20Portfolio.png" width="600" alt="Portfolio" />
-</a>
+<p align="center">
+  <a href="https://portfoliopatriciaales202603.onrender.com/">
+    <img src="./assets/Home%20Portfolio.png" width="650" alt="Portfolio" />
+  </a>
+</p>
+>
 
 
 
@@ -73,7 +76,10 @@ Estos repositorios están diseñados para ayudar al alumnado a **comprender los 
   🔗 Repo: https://github.com/PatriciaAlEs/PatriciaAlEs-generador-nombres  
   _Plantilla full-stack con React y Flask que genera nombres aleatorios con API conectada.  
   Base para construir aplicaciones web interactivas con frontend en React y backend en Flask._
-<img src="./assets/NameGen.png" width="400" alt="Generador de nombres" />
+<p align="center">
+  <img src="./assets/NameGen.png" width="650" alt="Generador de Nombres" />
+</p>
+
 
 
 
