@@ -35,8 +35,12 @@ I’m passionate about **continuous learning**, **hands-on coding**, and helping
 Tech stack: React · Vite · Flask · SQLAlchemy · PostgreSQL · JWT
 Description: Personal portfolio showcasing my projects, experience and background as a Full Stack Developer.
 Includes bilingual content (ES/EN), authentication, protected sections and responsive design.
-### 🌐 Portfolio (Live)
-[![Portfolio](./assets/Home%20Portfolio.png)](https://portfoliopatriciaales202603.onrender.com/)
+<h3>🌐 Portfolio (Live)</h3>
+<a href="https://portfoliopatriciaales202603.onrender.com/">
+  <img src="./assets/Home%20Portfolio.png" width="600" alt="Portfolio" />
+</a>
+
+
 
 
 
@@ -69,7 +73,8 @@ Estos repositorios están diseñados para ayudar al alumnado a **comprender los 
   🔗 Repo: https://github.com/PatriciaAlEs/PatriciaAlEs-generador-nombres  
   _Plantilla full-stack con React y Flask que genera nombres aleatorios con API conectada.  
   Base para construir aplicaciones web interactivas con frontend en React y backend en Flask._
-  [![Generador de Nombres](./assets/NameGen.png)](https://github.com/PatriciaAlEs/PatriciaAlEs-generador-nombres)
+<img src="./assets/NameGen.png" width="400" alt="Generador de nombres" />
+
 
 
 - 📖 [**Hooboo**](https://github.com/PatriciaAlEs/hooboo)  
