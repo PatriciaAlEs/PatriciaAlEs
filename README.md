@@ -24,6 +24,17 @@ I’m a **Full Stack Developer** with experience in modern web projects (React, 
 I’m passionate about **continuous learning**, **hands-on coding**, and helping others grow in the tech industry.  
 
 ---
+🌐 Live Portfolio
+
+🚀 My portfolio is live and online
+
+🔗 Live Demo: https://portfoliopatriciaales202603.onrender.com/
+
+💻 Repository: https://github.com/PatriciaAlEs/PortfolioPatriciaAlEs2025
+
+Tech stack: React · Vite · Flask · SQLAlchemy · PostgreSQL · JWT
+Description: Personal portfolio showcasing my projects, experience and background as a Full Stack Developer.
+Includes bilingual content (ES/EN), authentication, protected sections and responsive design.
 
 
 ## 🛠️ Tech Stack
@@ -49,14 +60,11 @@ These repositories are designed to help students **understand concepts with fres
 
 ## 📂 Featured Projects
 
-- 💼 [**Portfolio (Work in Progress)**](https://github.com/PatriciaAlEs/mi-nuevo-portfolio)  
-  _Personal portfolio built with React + Flask backend, showcasing my projects and experience._ 
+- 📖 [**Hooboo**](https://github.com/PatriciaAlEs/hooboo)  
+  _Full stack project to manage books, authors and reading lists (React + Flask + SQLAlchemy)._
 
 - 🌱 [**Habit Tracker**](https://github.com/PatriciaAlEs/habit-tracker)  
   _React app to track daily habits (React + LocalStorage)._  
-
-- 📖 [**Hooboo**](https://github.com/PatriciaAlEs/hooboo)  
-  _Full stack project to manage books, authors and reading lists (React + Flask + SQLAlchemy)._
 
 - 🛍️ [**Entusiasmao**](https://github.com/PatriciaAlEs/entusiasmao)  
   _E-commerce website with WordPress + WooCommerce._  
