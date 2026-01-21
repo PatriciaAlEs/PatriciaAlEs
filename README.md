@@ -46,28 +46,34 @@ Includes bilingual content (ES/EN), authentication, protected sections and respo
 
 ---
 
-## 👩‍🏫 Mentorship & Practice Repositories
-As a **Teaching Assistant at 4Geeks Academy**, I’ve developed several specific repositories for mentoring sessions.  
-They include alternative examples and extra exercises related to the bootcamp curriculum, such as:  
+## 👩‍🏫 Repositorios de Mentoría Técnica y Práctica
+Como **mentora técnica en 4Geeks Academy**, he desarrollado varios repositorios específicos para sesiones de mentoría.  
+Incluyen ejemplos alternativos y ejercicios extra relacionados con el temario del bootcamp, como:
 
-- 🧙‍♂️ Magic Card Form – practicing React states and controlled inputs.  
-- 🛒 Shopping List – working with `useState` and `useEffect`.  
-- 🪄 Fetching Wizards – consuming an API with `fetch`, `async/await`, POST & DELETE methods.  
+- 🧙‍♂️ Magic Card Form – práctica de estados en React y inputs controlados.  
+- 🛒 Shopping List – trabajo con `useState` y `useEffect`.  
+- 🪄 Fetching Wizards – consumo de una API usando `fetch`, `async/await` y métodos POST y DELETE.  
 
-These repositories are designed to help students **understand concepts with fresh examples** and improve their problem-solving skills.  
+Estos repositorios están diseñados para ayudar al alumnado a **comprender los conceptos con ejemplos diferentes** y mejorar sus habilidades de resolución de problemas.
+
 
 ---
 
 ## 📂 Featured Projects
 
+- 🧠 **Generador de Nombres (React + Flask)**  
+  🔗 Repo: https://github.com/PatriciaAlEs/PatriciaAlEs-generador-nombres  
+  _Plantilla full-stack con React y Flask que genera nombres aleatorios con API conectada.  
+  Base para construir aplicaciones web interactivas con frontend en React y backend en Flask._
+
 - 📖 [**Hooboo**](https://github.com/PatriciaAlEs/hooboo)  
-  _Full stack project to manage books, authors and reading lists (React + Flask + SQLAlchemy)._
+  _Proyecto full stack para gestionar libros, autores y listas de lectura (React + Flask + SQLAlchemy)._
 
 - 🌱 [**Habit Tracker**](https://github.com/PatriciaAlEs/habit-tracker)  
-  _React app to track daily habits (React + LocalStorage)._  
+  _Aplicación para el seguimiento de hábitos diarios._  
 
 - 🛍️ [**Entusiasmao**](https://github.com/PatriciaAlEs/entusiasmao)  
-  _E-commerce website with WordPress + WooCommerce._  
+  _Sitio web de comercio electrónico desarrollado con WordPress y WooCommerce._  
 
 ---
 
