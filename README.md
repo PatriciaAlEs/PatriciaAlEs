@@ -35,6 +35,7 @@ I’m passionate about **continuous learning**, **hands-on coding**, and helping
 Tech stack: React · Vite · Flask · SQLAlchemy · PostgreSQL · JWT
 Description: Personal portfolio showcasing my projects, experience and background as a Full Stack Developer.
 Includes bilingual content (ES/EN), authentication, protected sections and responsive design.
+[![Portfolio](./assets/portfolio-home.png)](https://portfoliopatriciaales202603.onrender.com/)
 
 
 ## 🛠️ Tech Stack
