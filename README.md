@@ -95,11 +95,6 @@ Estos repositorios están diseñados para ayudar al alumnado a **comprender los 
 ---
 
 
-## 📊 GitHub Stats
-
-| ![Patricia's GitHub stats](https://github-readme-stats.vercel.app/api?username=PatriciaAlEs&show_icons=true&theme=radical) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PatriciaAlEs&layout=compact&theme=radical&hide=html,css) |
-|---|---|
- 
 
 ## 🌟 Fun Facts
 - ✨ Amante de la **literatura fantástica** y las comunidades tech.  
