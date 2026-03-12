@@ -23,7 +23,7 @@ https://portfoliopatriciaales202603.onrender.com/
 https://github.com/PatriciaAlEs/PortfolioPatriciaAlEs2025
 
 **Tech Stack**
-React · Vite · Flask · SQLAlchemy · PostgreSQL · JWT
+React · Vite · Flask · SQLAlchemy · PostgreSQL · JWT · Python · JavaScript  · Tailwind
 
 Personal portfolio showcasing my projects, experience and background as a **Full Stack Developer**.
 Includes bilingual content (ES/EN), authentication, protected sections and responsive design.
