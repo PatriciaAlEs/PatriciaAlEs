@@ -1,28 +1,31 @@
-# 👩‍💻 Patricia Alvarez — Full Stack Developer
+## 👩‍💻 Patricia Alvarez — Full Stack Developer
 
 <img src="https://github.com/user-attachments/assets/51b7e06f-3455-48fa-a003-dbafd438c6c7" width="50px" height="50px" alt="cat-gif" />
 
 **Full Stack Developer | Teaching Assistant at 4Geeks Academy | Open to Work**
 
-🔗 **LinkedIn:** https://www.linkedin.com/in/patricia-alvarez-1052bb332/  
-📩 **Email:** patriciaalvarezestevez@gmail.com  
+🔗 **LinkedIn:**
+https://www.linkedin.com/in/patricia-alvarez-1052bb332/
+
+📩 **Email:**
+[patriciaalvarezestevez@gmail.com](mailto:patriciaalvarezestevez@gmail.com)
 
 ---
 
-# 🌐 Portfolio
+## 🌐 Portfolio
 
 🚀 My portfolio is live and available online.
 
-🔗 **Live Demo:**  
+🔗 **Live Demo**
 https://portfoliopatriciaales202603.onrender.com/
 
-💻 **Repository:**  
+💻 **Repository**
 https://github.com/PatriciaAlEs/PortfolioPatriciaAlEs2025
 
-**Tech Stack**  
+**Tech Stack**
 React · Vite · Flask · SQLAlchemy · PostgreSQL · JWT
 
-Personal portfolio showcasing my projects, experience and background as a **Full Stack Developer**.  
+Personal portfolio showcasing my projects, experience and background as a **Full Stack Developer**.
 Includes bilingual content (ES/EN), authentication, protected sections and responsive design.
 
 <p align="center">
@@ -33,7 +36,7 @@ Includes bilingual content (ES/EN), authentication, protected sections and respo
 
 ---
 
-# 👋 About Me
+## 👋 About Me
 
 Full Stack Developer and **Teaching Assistant at 4Geeks Academy**.
 
@@ -41,9 +44,9 @@ I build modern web applications using **React, Flask, SQLAlchemy and PostgreSQL*
 
 💡 Interested in:
 
-- Full Stack development  
-- Developer education  
-- Building useful products  
+* Full Stack development
+* Developer education
+* Building useful products
 
 📍 Based in Spain | **Open to work**
 
@@ -51,46 +54,48 @@ I build modern web applications using **React, Flask, SQLAlchemy and PostgreSQL*
 
 ---
 
-# 💼 What I Bring
+## 💼 What I Bring
 
-✔ Full stack development experience (**React + Flask**)  
-✔ Experience mentoring and teaching programming  
-✔ Building and deploying full stack applications  
-✔ Working with **REST APIs and authentication systems**  
+✔ Full stack development experience (**React + Flask**)
+✔ Experience mentoring and teaching programming
+✔ Building and deploying full stack applications
+✔ Working with **REST APIs and authentication systems**
 ✔ Collaborative development using **Git and GitHub**
 
 ---
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-| Languages & Frameworks | Databases | Tools & Others |
-|-------------------------|-----------|----------------|
-| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-FFA500?style=flat&logo=python&logoColor=white) ![REST API](https://img.shields.io/badge/REST%20API-009688?style=flat&logo=postman&logoColor=white) |
+| Languages & Frameworks                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | Databases                                                                                                                                                                                                                                                                                             | Tools & Others                                                                                                                                                                                                                                                                                                                                                                                    |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat\&logo=javascript\&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat\&logo=python\&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat\&logo=html5\&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat\&logo=css3\&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat\&logo=react\&logoColor=61DAFB) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat\&logo=flask\&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat\&logo=node.js\&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat\&logo=postgresql\&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat\&logo=mysql\&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat\&logo=sqlite\&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat\&logo=git\&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat\&logo=docker\&logoColor=white) ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-FFA500?style=flat\&logo=python\&logoColor=white) ![REST API](https://img.shields.io/badge/REST%20API-009688?style=flat\&logo=postman\&logoColor=white) |
 
 ---
 
-# 👩‍🏫 Teaching & Mentoring
+## 👩‍🏫 Teaching & Mentoring
 
 As a **Teaching Assistant at 4Geeks Academy**, I mentor students learning web development and help them understand core programming concepts.
 
 I also created additional repositories used during mentoring sessions, including:
 
-- **Magic Card Form** — controlled inputs and React state management  
-- **Shopping List** — working with `useState` and `useEffect`  
-- **Fetching Wizards** — API consumption using `fetch`, `async/await` and REST methods  
+* **Magic Card Form** — controlled inputs and React state management
+* **Shopping List** — working with `useState` and `useEffect`
+* **Fetching Wizards** — API consumption using `fetch`, `async/await` and REST methods
 
 These repositories provide **alternative explanations and extra practice exercises** to reinforce the bootcamp curriculum.
 
 ---
 
-# 🚀 Projects That Showcase My Work
+## 🚀 Projects That Showcase My Work
 
-## ⏰ TimeToTask — Full Stack Task Manager
+### ⏰ TimeToTask — Full Stack Task Manager
 
 Full stack task and project management application built with **React and Flask**.
 
 <p align="center">
-  <img src="./assets/time-to-task-allView.jpg" width="700" alt="TimeToTask Screenshot"/>
+  <a href="https://github.com/PatriciaAlEs/TimeToTask">
+    <img src="./assets/time-to-task-allView.jpg" width="700" alt="TimeToTask Screenshot"/>
+  </a>
 </p>
 
 **Tech**
@@ -99,29 +104,31 @@ React · Vite · Tailwind · Flask · SQLAlchemy · PostgreSQL · JWT · REST AP
 
 **Key Features**
 
-- JWT authentication  
-- Project & task management  
-- Kanban workflow  
-- Activity dashboard  
-- Internationalization (ES/EN)
+* JWT authentication
+* Project & task management
+* Kanban workflow
+* Activity dashboard
+* Internationalization (ES/EN)
 
-🔗 Repo  
+🔗 Repo
 https://github.com/PatriciaAlEs/TimeToTask
 
 ---
 
-## ✨ Espectra — Modern Frontend Experience
+### ✨ Espectra — Modern Frontend Experience
 
-🌐 Live Demo  
+🌐 Live Demo
 https://espectra-web.vercel.app/
 
-🔗 Repository  
+🔗 Repository
 https://github.com/PatriciaAlEs/espectra-web
 
 Frontend project focused on building a **modern visual experience using motion design and scalable component architecture**.
 
 <p align="center">
-  <img src="./assets/espectra-web.gif" alt="Espectra demo" width="900"/>
+  <a href="https://github.com/PatriciaAlEs/espectra-web">
+    <img src="./assets/espectra-web.gif" alt="Espectra demo" width="700"/>
+  </a>
 </p>
 
 **Tech**
@@ -130,15 +137,17 @@ React · TypeScript · Vite · Tailwind CSS · Framer Motion · EmailJS
 
 ---
 
-## 🧠 Name Generator — React + Flask
+### 🧠 Name Generator — React + Flask
 
-🔗 Repo  
+🔗 Repo
 https://github.com/PatriciaAlEs/PatriciaAlEs-generador-nombres
 
 Full-stack template that generates random names using a **React frontend and Flask backend API**.
 
 <p align="center">
-  <img src="./assets/NameGen.png" width="700" alt="Name Generator"/>
+  <a href="https://github.com/PatriciaAlEs/PatriciaAlEs-generador-nombres">
+    <img src="./assets/NameGen.png" width="700" alt="Name Generator"/>
+  </a>
 </p>
 
 A base project for building interactive applications with **React + Flask architecture**.
@@ -147,31 +156,31 @@ A base project for building interactive applications with **React + Flask archit
 
 ## 📚 Other Projects
 
-📖 **Hooboo**  
-https://github.com/PatriciaAlEs/hooboo  
+📖 **Hooboo**
+https://github.com/PatriciaAlEs/hooboo
 Full stack project to manage books, authors and reading lists.
 
-🌱 **Habit Tracker**  
-https://github.com/PatriciaAlEs/habit-tracker  
+🌱 **Habit Tracker**
+https://github.com/PatriciaAlEs/habit-tracker
 Application for tracking daily habits.
 
-🛍️ **Entusiasmao**  
-https://github.com/PatriciaAlEs/entusiasmao  
+🛍️ **Entusiasmao**
+https://github.com/PatriciaAlEs/entusiasmao
 E-commerce website built with **WordPress and WooCommerce**.
 
 ---
 
-# 📈 GitHub Activity
+## 📈 GitHub Activity
 
-[![Patricia's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PatriciaAlEs&theme=radical)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Patricia's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PatriciaAlEs\&theme=radical)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
-# ✨ Fun Facts
+## ✨ Fun Facts
 
-- 📚 Fan of **fantasy literature** and tech communities  
-- 🐱 I have several cats who are my coding companions  
-- 📖 First book I read in English: *Legends & Lattes*
+* 📚 Fan of **fantasy literature** and tech communities
+* 🐱 I have several cats who are my coding companions
+* 📖 First book I read in English: *Legends & Lattes*
 
 ---
 
