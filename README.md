@@ -120,6 +120,10 @@ https://github.com/PatriciaAlEs/espectra-web
 
 Frontend project focused on building a **modern visual experience using motion design and scalable component architecture**.
 
+<p align="center">
+  <img src="./assets/espectra-web.gif" alt="Espectra demo" width="900"/>
+</p>
+
 **Tech**
 
 React · TypeScript · Vite · Tailwind CSS · Framer Motion · EmailJS
