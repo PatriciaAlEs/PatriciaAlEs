@@ -2,7 +2,6 @@
 
 <img src="https://github.com/user-attachments/assets/51b7e06f-3455-48fa-a003-dbafd438c6c7" width="50px" height="50px" alt="cat-gif" />
 
-
 🌐 Live Portfolio
 
 🚀 My portfolio is live and online
