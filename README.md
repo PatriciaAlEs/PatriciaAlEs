@@ -127,7 +127,7 @@ Frontend project focused on building a **modern visual experience using motion d
 
 <p align="center">
   <a href="https://github.com/PatriciaAlEs/espectra-web">
-    <img src="./assets/espectra-web.gif" alt="Espectra demo" width="700"/>
+    <img src="./assets/espectra-web (1).gif" alt="Espectra demo" width="700"/>
   </a>
 </p>
 
