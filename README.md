@@ -43,25 +43,6 @@ I build modern web applications using **React, Flask, SQLAlchemy and PostgreSQL*
 🇪🇸 Español disponible en mi portfolio
 
 ---
-🌐 Live Portfolio
-
-🚀 My portfolio is live and online
-
-🔗 Live Demo: https://portfoliopatriciaales202603.onrender.com/
-
-💻 Repository: https://github.com/PatriciaAlEs/PortfolioPatriciaAlEs2025
-
-Tech stack: React · Vite · Flask · SQLAlchemy · PostgreSQL · JWT
-Description: Personal portfolio showcasing my projects, experience and background as a Full Stack Developer.
-Includes bilingual content (ES/EN), authentication, protected sections and responsive design.
-<h3>🌐 Portfolio (Live)</h3>
-<p align="center">
-  <a href="https://portfoliopatriciaales202603.onrender.com/">
-    <img src="./assets/Home%20Portfolio.png" width="650" alt="Portfolio" />
-  </a>
-</p>
->
-
 
 ## 💼 What I Bring
 
