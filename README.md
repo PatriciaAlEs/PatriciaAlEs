@@ -1,7 +1,26 @@
 # 👩‍💻 Hello World, I'm Patricia!  
+
 <img src="https://github.com/user-attachments/assets/51b7e06f-3455-48fa-a003-dbafd438c6c7" width="50px" height="50px" alt="cat-gif" />
 
 
+🌐 Live Portfolio
+
+🚀 My portfolio is live and online
+
+🔗 Live Demo: https://portfoliopatriciaales202603.onrender.com/
+
+💻 Repository: https://github.com/PatriciaAlEs/PortfolioPatriciaAlEs2025
+
+Tech stack: React · Vite · Flask · SQLAlchemy · PostgreSQL · JWT
+Description: Personal portfolio showcasing my projects, experience and background as a Full Stack Developer.
+Includes bilingual content (ES/EN), authentication, protected sections and responsive design.
+<h3>🌐 Portfolio (Live)</h3>
+<p align="center">
+  <a href="https://portfoliopatriciaales202603.onrender.com/">
+    <img src="./assets/Home%20Portfolio.png" width="650" alt="Portfolio" />
+  </a>
+</p>
+>
 
 
 **Full Stack Developer | Teaching Assistant at 4Geeks Academy | Open to Work**  
@@ -11,17 +30,18 @@
 
 ---
 
-## 🚀 About Me (ES)
-Soy desarrolladora **Full Stack** con experiencia en proyectos web modernos (React, Flask, Node.js, SQLAlchemy, REST APIs). Actualmente combino mi trabajo como **profesora adjunta en 4Geeks Academy** con el desarrollo de proyectos personales y colaborativos.  
 
-Me apasiona el **aprendizaje constante**, la **programación práctica** y ayudar a otros a crecer en la industria tech.  
+## 👋 About Me
 
----
+Full Stack Developer and Teaching Assistant at **4Geeks Academy**.
 
-## 🚀 About Me (EN)
-I’m a **Full Stack Developer** with experience in modern web projects (React, Flask, Node.js, SQLAlchemy, REST APIs). Currently, I combine my role as a **Teaching Assistant at 4Geeks Academy** with developing personal and collaborative projects.  
+I build modern web applications using **React, Flask, SQLAlchemy and PostgreSQL** and enjoy helping others learn programming through mentoring and technical guidance.
 
-I’m passionate about **continuous learning**, **hands-on coding**, and helping others grow in the tech industry.  
+💡 Interested in: Full Stack development, developer education and building useful products.
+
+📍 Based in Spain | Open to work
+
+🇪🇸 Español disponible en mi portfolio
 
 ---
 🌐 Live Portfolio
@@ -44,7 +64,13 @@ Includes bilingual content (ES/EN), authentication, protected sections and respo
 >
 
 
+## 💼 What I Bring
 
+✔ Full stack development experience (React + Flask)  
+✔ Experience mentoring and teaching programming  
+✔ Building and deploying full stack applications  
+✔ Working with REST APIs and authentication systems  
+✔ Collaborative development with Git
 
 
 
@@ -57,20 +83,22 @@ Includes bilingual content (ES/EN), authentication, protected sections and respo
 
 ---
 
-## 👩‍🏫 Repositorios de Mentoría Técnica y Práctica
-Como **mentora técnica en 4Geeks Academy**, he desarrollado varios repositorios específicos para sesiones de mentoría.  
-Incluyen ejemplos alternativos y ejercicios extra relacionados con el temario del bootcamp, como:
+## 👩‍🏫 Teaching & Mentoring
 
-- 🧙‍♂️ Magic Card Form – práctica de estados en React y inputs controlados.  
-- 🛒 Shopping List – trabajo con `useState` y `useEffect`.  
-- 🪄 Fetching Wizards – consumo de una API usando `fetch`, `async/await` y métodos POST y DELETE.  
+As a **Teaching Assistant at 4Geeks Academy**, I mentor students learning web development and help them understand core programming concepts.
 
-Estos repositorios están diseñados para ayudar al alumnado a **comprender los conceptos con ejemplos diferentes** y mejorar sus habilidades de resolución de problemas.
+I created additional practice repositories used during mentoring sessions, including:
+
+- Magic Card Form — controlled inputs and React state management
+- Shopping List — state management with `useState` and `useEffect`
+- Fetching Wizards — API consumption using `fetch`, async/await and REST methods
+
+These repositories provide **alternative explanations and practical exercises** to reinforce the bootcamp curriculum.
 
 
 ---
 
-## 📂 Featured Projects
+## 📂 Projects That Showcase My Work
 
 - 🧠 **Generador de Nombres (React + Flask)**  
   🔗 Repo: https://github.com/PatriciaAlEs/PatriciaAlEs-generador-nombres  
@@ -81,7 +109,32 @@ Estos repositorios están diseñados para ayudar al alumnado a **comprender los 
 </p>
 
 
+### ⏰ TimeToTask — Full Stack Task Manager
+Full stack task and project management application built with React and Flask.
+<p align="center">
+<img src="./assets/timetotask.png" width="650"/>
+</p>
+Tech: React · Vite · Tailwind · Flask · SQLAlchemy · PostgreSQL · JWT · REST API  
 
+Key features:
+- JWT authentication
+- Project & task management
+- Kanban board workflow
+- Activity dashboard
+- Internationalization (ES/EN)
+
+🔗 Repo: https://github.com/PatriciaAlEs/TimeToTask
+
+---
+
+### ✨ Espectra — Modern Frontend Experience
+
+🌐 Live Demo: https://espectra-web.vercel.app/  
+🔗 Repo: https://github.com/PatriciaAlEs/espectra-web
+
+Frontend project focused on building a modern visual experience using motion design and scalable component architecture.
+
+Tech: React · TypeScript · Vite · Tailwind CSS · Framer Motion · EmailJS
 
 - 📖 [**Hooboo**](https://github.com/PatriciaAlEs/hooboo)  
   _Proyecto full stack para gestionar libros, autores y listas de lectura (React + Flask + SQLAlchemy)._
