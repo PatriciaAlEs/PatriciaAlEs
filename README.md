@@ -113,6 +113,36 @@ https://github.com/PatriciaAlEs/TimeToTask
 
 ---
 
+📄 PDF Translator — NLP-Powered Document Translation
+
+Full stack application that translates entire PDF documents into high-quality Spanish while preserving layout, structure and formatting.
+
+<p align="center"> <img src="https://img.shields.io/badge/python-3.9+-blue?logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/Flask-3.0-green?logo=flask&logoColor=white" alt="Flask"> <img src="https://img.shields.io/badge/NLP-spaCy-09A3D5?logo=spacy&logoColor=white" alt="spaCy"> <img src="https://img.shields.io/badge/LanguageTool-Grammar-2D6BCC" alt="LanguageTool"> <img src="https://img.shields.io/badge/Hunspell-Spellcheck-orange" alt="Hunspell"> <img src="https://img.shields.io/badge/AI-Gemini%20%7C%20Claude-8E75B2" alt="AI"> </p>
+
+Tech
+
+Python · Flask · spaCy · Hunspell · LanguageTool · Google Translate · Gemini / Claude
+
+Key Features
+
+📄 Full PDF translation with layout preservation (PDF → DOCX → PDF)
+⚡ Parallel translation engine with real-time progress tracking
+🧠 5-stage NLP pipeline for post-processing and linguistic correction
+✨ 200+ custom rules fixing:
+false friends
+calques
+gerund overuse
+passive voice
+idiomatic expressions
+🤖 Optional AI refinement for literary-quality output
+
+Why this project stands out
+
+This is not just a translator — it’s a linguistic correction engine that transforms raw machine translation into natural, idiomatic Spanish, combining rule-based NLP + AI.
+
+🔗 Repo
+https://github.com/YOUR_USERNAME/pdf-translator
+
 ### ✨ Espectra — Modern Frontend Experience
 
 🌐 Live Demo
