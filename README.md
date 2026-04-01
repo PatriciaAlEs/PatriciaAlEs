@@ -143,6 +143,9 @@ This is not just a translator — it’s a linguistic correction engine that tra
 🔗 Repo
 https://github.com/YOUR_USERNAME/pdf-translator
 
+---
+
+
 ### ✨ Espectra — Modern Frontend Experience
 
 🌐 Live Demo
