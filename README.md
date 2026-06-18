@@ -38,17 +38,21 @@ Includes bilingual content (ES/EN), authentication, protected sections and respo
 
 ## 👋 About Me
 
-Full Stack Developer and **Teaching Assistant at 4Geeks Academy**.
+Full Stack Developer and Teaching Assistant at 4Geeks Academy.
 
-I build modern web applications using **React, Flask, SQLAlchemy and PostgreSQL**, and I enjoy helping others learn programming through mentoring and technical guidance.
+I enjoy building products from idea to deployment, combining web and mobile development with product thinking and modern AI-assisted workflows.
+
+Recently I've been focused on Flutter development through ReadPp, a reading-tracker application currently in Alpha testing, where I handle architecture, UX/UI, development, testing and product iteration.
 
 💡 Interested in:
 
-* Full Stack development
-* Developer education
-* Building useful products
+* Full Stack Development
+* Mobile Development
+* Product Development
+* AI-assisted Engineering
+* Developer Education
 
-📍 Based in Spain | **Open to work**
+📍 Based in Spain | Open to Work
 
 🇪🇸 Spanish version available in my portfolio.
 
@@ -85,6 +89,62 @@ These repositories provide **alternative explanations and extra practice exercis
 ---
 
 ## 🚀 Projects That Showcase My Work
+
+## 📚 ReadPp — Reading Tracker App (Alpha)
+
+Flutter application designed to help readers build and maintain a reading habit through tracking, insights and reading challenges.
+
+<p align="center">
+  <img src="./assets/readpp-home.png" width="700" alt="ReadPp Screenshot"/>
+</p>
+
+### Tech Stack
+
+Flutter · Dart · Riverpod · Drift · SQLite · Open Library API
+
+### Key Features
+
+* Personal library management
+* Reading sessions tracking
+* Reading challenge system
+* Reading activity calendar
+* Reading insights and statistics
+* Multi-book reading support
+* Offline-first architecture
+* Android Alpha build
+
+### Current Status
+
+🚀 ReadPp is currently in Alpha testing.
+
+The project is actively evolving through real user feedback, bug fixing, UX improvements and product iteration.
+
+### What I Learned
+
+ReadPp became my largest product-focused project and allowed me to work across the entire product lifecycle:
+
+* Mobile development with Flutter
+* State management using Riverpod
+* Local persistence with Drift and SQLite
+* UX/UI design decisions
+* Product thinking
+* User feedback loops
+* QA and Alpha testing
+* AI-assisted development workflows
+
+### Highlights
+
+* First Android APK released
+* Real users currently testing the application
+* Reading statistics and insights engine
+* Reading challenge system
+* Calendar-based activity tracking
+* Custom design system and premium UI
+
+🔗 Repository
+
+https://github.com/PatriciaAlEs/reading_tracker
+
 
 ### ⏰ TimeToTask — Full Stack Task Manager
 
