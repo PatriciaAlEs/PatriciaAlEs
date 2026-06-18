@@ -4,6 +4,10 @@
 
 **Full Stack Developer | Teaching Assistant at 4Geeks Academy | Open to Work**
 
+### Current Focus
+
+📱 Flutter · Riverpod · Drift · Product Development · AI-assisted Workflows
+
 🔗 **LinkedIn:**
 https://www.linkedin.com/in/patricia-alvarez-1052bb332/
 
@@ -68,11 +72,9 @@ Recently I've been focused on Flutter development through ReadPp, a reading-trac
 
 ---
 
-## 🛠️ Tech Stack
-
-| Languages & Frameworks | Databases | Tools & Others |
-|-------------------------|-----------|----------------|
-| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white) | ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-FFA500?style=flat&logo=python&logoColor=white) ![REST API](https://img.shields.io/badge/REST%20API-009688?style=flat&logo=postman&logoColor=white) |
+| Languages & Frameworks                                                              | Databases & Persistence             | Tools & Others                                                                       |
+| ----------------------------------------------------------------------------------- | ----------------------------------- | ------------------------------------------------------------------------------------ |
+| JavaScript · TypeScript · Python · Dart · React · Flutter · Flask · Tailwind · Vite | PostgreSQL · MySQL · SQLite · Drift | Riverpod · Git · GitHub · REST APIs · SQLAlchemy · Android Studio · Open Library API |
 
 ## 👩‍🏫 Teaching & Mentoring
 
