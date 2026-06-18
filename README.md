@@ -30,7 +30,7 @@ Includes bilingual content (ES/EN), authentication, protected sections and respo
 
 <p align="center">
   <a href="https://portfoliopatriciaales202603.onrender.com/">
-    <img src="./assets/Home%20Portfolio.png" width="700" alt="Portfolio Screenshot"/>
+    <img src="./assets/Home%20Portfolio.png" width="500" alt="Portfolio Screenshot"/>
   </a>
 </p>
 
