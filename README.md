@@ -64,11 +64,11 @@ Recently I've been focused on Flutter development through ReadPp, a reading-trac
 
 ## 💼 What I Bring
 
-✔ Full stack development experience (**React + Flask**)
+✔ Full stack and mobile development experience (React, Flask & Flutter)
+✔ Experience building products from idea to Alpha release
 ✔ Experience mentoring and teaching programming
-✔ Building and deploying full stack applications
-✔ Working with **REST APIs and authentication systems**
-✔ Collaborative development using **Git and GitHub**
+✔ Working with REST APIs, local persistence and state management
+✔ Collaborative development using Git and GitHub
 
 ---
 
@@ -105,6 +105,7 @@ Flutter application designed to help readers build and maintain a reading habit 
   Currently in Alpha testing with real users.
 </p>
 
+🚀 Alpha Testing • Flutter • Riverpod • Drift • Real User Feedback
 ### Tech Stack
 
 Flutter · Dart · Riverpod · Drift · SQLite · Open Library API
@@ -155,8 +156,7 @@ ReadPp became my largest product-focused project and allowed me to work across t
 - Alpha Android build available
 - Real user feedback currently driving development
 
-🔗 Repository
-
+🔗 Repository:
 https://github.com/PatriciaAlEs/reading_tracker
 
 
