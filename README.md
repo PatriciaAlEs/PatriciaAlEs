@@ -146,6 +146,13 @@ ReadPp became my largest product-focused project and allowed me to work across t
 * Calendar-based activity tracking
 * Custom design system and premium UI
 
+### Project Metrics
+
+- 19+ development sprints completed
+- 55+ automated tests
+- Alpha Android build available
+- Real user feedback currently driving development
+
 🔗 Repository
 
 https://github.com/PatriciaAlEs/reading_tracker
