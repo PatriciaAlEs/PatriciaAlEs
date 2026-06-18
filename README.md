@@ -215,7 +215,7 @@ Why this project stands out
 This is not just a translator — it’s a linguistic correction engine that transforms raw machine translation into natural, idiomatic Spanish, combining rule-based NLP + AI.
 
 🔗 Repo
-https://github.com/YOUR_USERNAME/pdf-translator
+[https://github.com/YOUR_USERNAME/pdf-translator](https://github.com/PatriciaAlEs/PDF-translatorV2)
 
 ---
 
