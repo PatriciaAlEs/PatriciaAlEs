@@ -95,7 +95,7 @@ These repositories provide **alternative explanations and extra practice exercis
 Flutter application designed to help readers build and maintain a reading habit through tracking, insights and reading challenges.
 
 <p align="center">
-  <img src="./assets/readpp-home.png" width="700" alt="ReadPp Screenshot"/>
+  <img src="./assets/Readpp-gif-alpha-menospesado.gif" width="750" alt="ReadPp Demo"/>
 </p>
 
 ### Tech Stack
